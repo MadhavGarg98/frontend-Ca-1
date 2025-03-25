@@ -13,8 +13,6 @@ function App() {
       flexWrap:"wrap",
       gap:"20px"
     }}>
-
-
       <ServiceCard title="Web Development" description="Makes Web pages and websites like Youtube.com"/>
       <ServiceCard title="App Development" description="Makes Apps like Instagram"/>
     </div>
